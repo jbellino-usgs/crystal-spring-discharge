@@ -29,9 +29,9 @@ Introduction
 
   `>>C:\\Users\jbellino\crystal-spring-discharge> activate py35`
 
- 4. Start up <a href="http://jupyter.org/" target="_blank">Jupyter notebook</a>:
+ 4. Start up <a href="http://jupyter.org/" target="_blank">Jupyter</a> notebook:
 
   `>>(py35) C:\\Users\jbellino\crystal-spring-discharge> jupyter notebook`
 
- 5. Open the notebook "<a href="https://github.com/jbellino-usgs/crystal-spring-discharge/blob/master/Crystal%20Spring%20Discharge.ipynb">Crystal Spring Discharge.ipynb</a>" to get started.
+ 5. Open the notebook <a href="https://github.com/jbellino-usgs/crystal-spring-discharge/blob/master/Crystal%20Spring%20Discharge.ipynb">Crystal Spring Discharge.ipynb</a> to get started.
  
