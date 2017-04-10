@@ -29,7 +29,7 @@ Introduction
 
  4. Start up Jupyter notebook:
 
-  `>>C:\\Users\jbellino\crystal-spring-discharge> jupyter notebook`
+  `>>(py35) C:\\Users\jbellino\crystal-spring-discharge> jupyter notebook`
 
  5. Open the notebook "<a href="https://github.com/jbellino-usgs/crystal-spring-discharge/blob/master/Crystal%20Spring%20Discharge.ipynb">Crystal Spring Discharge.ipynb</a>" to get started.
  
