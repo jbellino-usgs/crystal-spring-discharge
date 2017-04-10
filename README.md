@@ -15,7 +15,7 @@ Introduction
  Getting Started
 -----------------------------------------------
 
- 0. <a href"https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Install git</a>
+ 0. <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Install git</a>
 
  1. Clone this repository to your local computer:
 
