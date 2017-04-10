@@ -12,5 +12,5 @@ Introduction
  which are part of the default Anaconda environment, but may also be installed
  separately using the program "conda".
  
- Open the notebook "Crystal Spring Discharge.ipynb" to get started.
+ Open the notebook "<a href="https://github.com/jbellino-usgs/crystal-spring-discharge/blob/master/Crystal%20Spring%20Discharge.ipynb">Crystal Spring Discharge.ipynb</a>" to get started.
  
