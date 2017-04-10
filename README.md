@@ -29,7 +29,7 @@ Introduction
 
   `>>C:\\Users\jbellino\crystal-spring-discharge> activate py35`
 
- 4. Start up Jupyter notebook:
+ 4. Start up <a href="http://jupyter.org/" target="_blank">Jupyter notebook</a>:
 
   `>>(py35) C:\\Users\jbellino\crystal-spring-discharge> jupyter notebook`
 
