@@ -15,6 +15,8 @@ Introduction
  Getting Started
 -----------------------------------------------
 
+ 0. <a href"https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Install git</a>
+
  1. Clone this repository to your local computer:
 
   `>>C:\\Users\jbellino> git clone https://github.com/jbellino-usgs/crystal-spring-discharge.git`
