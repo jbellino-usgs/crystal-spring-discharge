@@ -8,9 +8,9 @@ Introduction
 
  It is recommended that the Anaconda python distribution is installed
  prior to running the notebook (https://www.continuum.io/downloads).
- Mimimum requirements for this example are the pandas and numpy packages
+ Mimimum requirements for this example are the `pandas` and `matplotlib` packages
  which are part of the default Anaconda environment, but may also be installed
- separately using the program "conda".
+ separately using the program `conda`.
 
  Getting Started
 -----------------------------------------------
