@@ -27,11 +27,11 @@ Introduction
 
   `>>C:\\Users\jbellino> cd crystal-spring-discharge`
   
- 4. Set up a python environment with the `pandas` and `matplotlib` libraries.
+ 4. [optional] Set up a python environment with the `pandas` and `matplotlib` libraries.
   
   `>>C:\\Users\jbellino\crystal-spring-discharge> python setup\CreatePythonEnvironment.py`
 
- 5. Activate the "py35" python environment created in step 4 above:
+ 5. [optional] Activate the "py35" python environment created in step 4 above:
 
   `>>C:\\Users\jbellino\crystal-spring-discharge> activate py35`
 
