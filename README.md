@@ -17,7 +17,7 @@ Introduction
 
  0. Install the <a href="https://www.continuum.io/downloads" target="_blank">Anaconda</a> data science platform (includes python)
 
- 1. Install <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">git</a>
+ 1. Install <a href="https://git-scm.com/downloads" target="_blank">git</a>
 
  2. Clone this repository to your local computer:
 
