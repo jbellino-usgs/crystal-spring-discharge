@@ -15,7 +15,7 @@ To use this new python environment, use the "activate" command:
 
 # First, create a string that we will feed to the os.system()
 # which is the equivalent to typing this in at the command line.
-s = 'conda create --name pybb'
+s = 'conda create --name py35'
 
 # Add the python version we want to create
 pyversion = 3.5
